@@ -34,8 +34,8 @@ This project showcases the implementation of various Pandas functionalities to p
 
 ## How to Run
 
-1.  Clone this repository: `git clone [repository URL]`
-2.  Navigate to the project directory: `cd [project directory]`
+1.  Clone this repository: `git clone `
+2.  Navigate to the project directory`
 3.  Install the required libraries: `pip install pandas numpy jupyter`
 4.  Run the Jupyter Notebook: `jupyter notebook pandas_practice.ipynb` (or `pytest test_cases.py` if tests are included)
 
